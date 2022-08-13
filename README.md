@@ -33,3 +33,63 @@
   <li><p><a href="https://github.com/jefriwahyu/reactjs_redux_basic"><b><i>React JS Redux Basic</i></b></a> - Membuat Web Penghitung(Increment/Decrement) Dengan React JS Redux</p></li>
   <li><p><a href="https://github.com/jefriwahyu/reactjs_project_film"><b><i>React JS Redux Project Film</i></b></a> - Membuat Web Film Dengan ReactJS Redux, Semantic UI, Auth0, TV Maze(API)</p></li>
 </ul>
+
+Tugas Javascript
+
+<ul>
+	<li><p><a href="https://github.com/jefriwahyu/tugas_1_javascript"><b><i>1</i></b></a> - Variabel var, let, const, console.log().</p></li>
+	<li><p><a href="https://github.com/jefriwahyu/tugas_2_javascript"><b><i>2</i></b></a> - Variabel Dengan Type Data Number, String, Boolean, Null/Undifined, Array.</p></li>
+	<li><p><a href="https://github.com/jefriwahyu/tugas_3_javascript"><b><i>3</i></b></a> - Function, Return.</p></li>
+	<li><p><a href="https://github.com/jefriwahyu/tugas_4_javascript"><b><i>4</i></b></a> - If/Else.</p></li>
+	<li><p><a href="https://github.com/jefriwahyu/tugas_5_javascript"><b><i>5</i></b></a> - For.</p></li>
+	<li><p><a href="https://github.com/jefriwahyu/tugas_6_javascript"><b><i>6</i></b></a> - For.</p></li>
+	<li><p><a href="https://github.com/jefriwahyu/tugas_7_javascript"><b><i>7</i></b></a> - Variabel Array, For, For of.</p></li>
+	<li><p><a href="https://github.com/jefriwahyu/tugas_8_javascript"><b><i>8</i></b></a> - Variabel Object.</p></li>
+	<li><p><a href="https://github.com/jefriwahyu/tugas_9_javascript"><b><i>9</i></b></a> - Variabel Object, For in.</p></li>
+	<li><p><a href="https://github.com/jefriwahyu/tugas_10_javascript"><b><i>10</i></b></a> - For in.</p></li>
+	<li><p><a href="https://github.com/jefriwahyu/tugas_11_javascript"><b><i>11</i></b></a> - Operator Perhitungan Javascript.</p></li>
+	<li><p><a href="https://github.com/jefriwahyu/tugas_12_javascript"><b><i>12</i></b></a> - Pop, Shift.</p></li>
+	<li><p><a href="https://github.com/jefriwahyu/tugas_13_javascript"><b><i>13</i></b></a> - Unshift.</p></li>
+	<li><p><a href="https://github.com/jefriwahyu/tugas_14_javascript"><b><i>14</i></b></a> - Math Round, Ceil, Floor.</p></li>
+	<li><p><a href="https://github.com/jefriwahyu/tugas_15_javascript"><b><i>15</i></b></a> - Pow, Sqrt.</p></li>
+	<li><p><a href="https://github.com/jefriwahyu/tugas_16_javascript"><b><i>16</i></b></a> - Math Min, Max.</p></li>
+	<li><p><a href="https://github.com/jefriwahyu/tugas_17_javascript"><b><i>17</i></b></a> - toLowerCase, toUpperCase, charCodeAt.</p></li>
+	<li><p><a href="https://github.com/jefriwahyu/tugas_18_javascript"><b><i>18</i></b></a> - Slice, Concat.</p></li>
+	<li><p><a href="https://github.com/jefriwahyu/tugas_19_javascript"><b><i>19</i></b></a> - Repeat.</p></li>
+	<li><p><a href="https://github.com/jefriwahyu/tugas_20_javascript"><b><i>20</i></b></a> - Match.</p></li>
+	<li><p><a href="https://github.com/jefriwahyu/tugas_21_javascript"><b><i>21</i></b></a> - Replace.</p></li>
+	<li><p><a href="https://github.com/jefriwahyu/tugas_22_javascript"><b><i>22</i></b></a> - Split, For each.</p></li>
+	<li><p><a href="https://github.com/jefriwahyu/tugas_23_javascript"><b><i>23</i></b></a> - Filter.</p></li>
+	<li><p><a href="https://github.com/jefriwahyu/tugas_24_javascript"><b><i>24</i></b></a> - Sort, Reverse.</p></li>
+	<li><p><a href="https://github.com/jefriwahyu/tugas_25_javascript"><b><i>25</i></b></a> - Sort, Filter, Reverse.</p></li>
+	<li><p><a href="https://github.com/jefriwahyu/tugas_26_javascript"><b><i>26</i></b></a> - isFinite, For each.</p></li>
+	<li><p><a href="https://github.com/jefriwahyu/tugas_27_javascript"><b><i>27</i></b></a> - Concat.</p></li>
+	<li><p><a href="https://github.com/jefriwahyu/tugas_28_javascript"><b><i>28</i></b></a> - Search.</p></li>
+	<li><p><a href="https://github.com/jefriwahyu/tugas_29_javascript"><b><i>29</i></b></a> - RegExp.</p></li>
+	<li><p><a href="https://github.com/jefriwahyu/tugas_30_javascript"><b><i>30</i></b></a> - Match, Splice.</p></li>
+	<li><p><a href="https://github.com/jefriwahyu/tugas_31_javascript"><b><i>31</i></b></a> - External Javascript, Function Javascript.</p></li>
+	<li><p><a href="https://github.com/jefriwahyu/tugas_32_javascript"><b><i>32</i></b></a> - Internal Javascript, getElementsById.</p></li>
+	<li><p><a href="https://github.com/jefriwahyu/tugas_33_javascript"><b><i>33</i></b></a> - Internal Javascript, getElementsByClassName.</p></li>
+	<li><p><a href="https://github.com/jefriwahyu/tugas_34_javascript"><b><i>34</i></b></a> - Internal Javascript, getElementsByTagName.</p></li>
+	<li><p><a href="https://github.com/jefriwahyu/tugas_35_javascript"><b><i>35</i></b></a> - querySelector.</p></li>
+	<li><p><a href="https://github.com/jefriwahyu/tugas_36_javascript"><b><i>36</i></b></a> - getElementsById, getElementsByTagName, getElementsByClassName, querySelector.</p></li>
+	<li><p><a href="https://github.com/jefriwahyu/tugas_37_javascript"><b><i>37</i></b></a> - Atribute Name, Atribute getNamedItem, Atribute Length.</p></li>
+	<li><p><a href="https://github.com/jefriwahyu/tugas_38_javascript"><b><i>38</i></b></a> - removedNamedItem, createAtribute, setNamedItem, Atribute Value.</p></li>
+	<li><p><a href="https://github.com/jefriwahyu/tugas_39_javascript"><b><i>39</i></b></a> - Active Element, addEventListener, Anchor.</p></li>
+	<li><p><a href="https://github.com/jefriwahyu/tugas_40_javascript"><b><i>40</i></b></a> - BaseURI, Body, createElement.</p></li>
+	<li><p><a href="https://github.com/jefriwahyu/tugas_41_javascript"><b><i>41</i></b></a> - onChange.</p></li>
+	<li><p><a href="https://github.com/jefriwahyu/tugas_42_javascript"><b><i>42</i></b></a> - Onmouseover, Onmouseout.</p></li>
+	<li><p><a href="https://github.com/jefriwahyu/tugas_43_javascript"><b><i>43</i></b></a> - History Forward, History Back.</p></li>
+	<li><p><a href="https://github.com/jefriwahyu/tugas_44_javascript"><b><i>44</i></b></a> - Item HTML Collection.</p></li>
+	<li><p><a href="https://github.com/jefriwahyu/tugas_45_javascript"><b><i>45</i></b></a> - Href Location.</p></li>
+	<li><p><a href="https://github.com/jefriwahyu/tugas_46_javascript"><b><i>46</i></b></a> - Prompt Window.</p></li>
+	<li><p><a href="https://github.com/jefriwahyu/tugas_akhir_javascript"><b><i>Form</i></b></a> - Membuat Form Dari Javascript.</p></li>
+	<li><p><a href="https://github.com/jefriwahyu/tugas_regexp_javascript"><b><i>RegExp</i></b></a> - RegExp Javascript.</p></li>
+	<li><p><a href="https://github.com/jefriwahyu/tugas_nestedarraydanlooping_javascript"><b><i>Nested Array dan Looping</i></b></a> - Menerapkan Nested Array dan Looping.</p></li>
+	<li><p><a href="https://github.com/jefriwahyu/tugas_balikkata_javascript"><b><i>Balik Kata</i></b></a> - Balik Kata Javascript.</p></li>
+	<li><p><a href="https://github.com/jefriwahyu/tugas_filterdanparameter_javascript"><b><i>51</i></b></a> - Filter, Parameter.</p></li>
+	<li><p><a href="https://github.com/jefriwahyu/study_kasus_balikkata_javascript"><b><i>52</i></b></a> - Heading Element dan Comment.</p></li>
+	<li><p><a href="https://github.com/jefriwahyu/study_kasus_manipulasideretangka_javascript"><b><i>53</i></b></a> - Heading Element dan Comment.</p></li>
+	<li><p><a href="https://github.com/jefriwahyu/study_kasus_nestedarraydanlooping_javascript"><b><i>54</i></b></a> - Heading Element dan Comment.</p></li>
+
+</ul>
