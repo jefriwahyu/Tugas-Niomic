@@ -1,4 +1,8 @@
-# Tugas Niomic 💻
+# TUGAS NIOMIC 💻
+
+<b><i>Ini adalah tugas yang telah saya selesaikan dari Niomic Bootcamp.</i></b>
+<br />
+<br />
 
 <h2>Tugas HTML ✔</h2>
 <ul>
