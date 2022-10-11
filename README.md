@@ -168,16 +168,16 @@
 
 <h2>Tugas PHP ✔</h2>
 <ul>
-	<li><p><a href="https://github.com/jefriwahyu/tugas_1_php"><b><i>1</i></b></a> - Data JSON.</p></li>
-	<li><p><a href="https://github.com/jefriwahyu/tugas_2_php"><b><i>2</i></b></a> - API, POST dan GET.</p></li>
-	<li><p><a href="https://github.com/jefriwahyu/tugas_3_php"><b><i>3</i></b></a> - GET dan PUT.</p></li>
-	<li><p><a href="https://github.com/jefriwahyu/tugas_4_php"><b><i>4</i></b></a> - GET dan PUT.</p></li>
-	<li><p><a href="https://github.com/jefriwahyu/tugas_5_php"><b><i>5</i></b></a> - GET dan PUT.</p></li>
-	<li><p><a href="https://github.com/jefriwahyu/tugas_6_php"><b><i>6</i></b></a> - GET dan PUT.</p></li>
-	<li><p><a href="https://github.com/jefriwahyu/tugas_7_php"><b><i>7</i></b></a> - GET dan PUT.</p></li>
-	<li><p><a href="https://github.com/jefriwahyu/tugas_8_php"><b><i>8</i></b></a> - GET dan PUT.</p></li>
-	<li><p><a href="https://github.com/jefriwahyu/tugas_9_php"><b><i>9</i></b></a> - GET dan PUT.</p></li>
-	<li><p><a href="https://github.com/jefriwahyu/tugas_10_php"><b><i>10</i></b></a> - GET dan PUT.</p></li>
+	<li><p><a href="https://github.com/jefriwahyu/tugas_1_php"><b><i>1</i></b></a> - Daftar Menu Makanan Menggunakan Array.</p></li>
+	<li><p><a href="https://github.com/jefriwahyu/tugas_2_php"><b><i>2</i></b></a> - Jawaban Soal Matematika Menggunakan PHP.</p></li>
+	<li><p><a href="https://github.com/jefriwahyu/tugas_3_php"><b><i>3</i></b></a> - Jawaban Soal Matematika Menggunakan PHP.</p></li>
+	<li><p><a href="https://github.com/jefriwahyu/tugas_4_php"><b><i>4</i></b></a> - Jawaban Soal Matematika Menggunakan PHP.</p></li>
+	<li><p><a href="https://github.com/jefriwahyu/tugas_5_php"><b><i>5</i></b></a> - Tabel Logika Menggunakan Operator Logika.</p></li>
+	<li><p><a href="https://github.com/jefriwahyu/tugas_6_php"><b><i>6</i></b></a> - Jawaban Soal Matematika Menggunakan PHP.</p></li>
+	<li><p><a href="https://github.com/jefriwahyu/tugas_7_php"><b><i>7</i></b></a> - Tabel Bilangan Ganjil Genap Menggunakan Operator Aritmatika.</p></li>
+	<li><p><a href="https://github.com/jefriwahyu/tugas_8_php"><b><i>8</i></b></a> - Belah Ketupat Dengan Perulangan.</p></li>
+	<li><p><a href="https://github.com/jefriwahyu/tugas_9_php"><b><i>9</i></b></a> - Deret Bilangan Fibonacci Dengan Perulangan For dan Deret Bilangan Prima Dengan Perulangan For Nested Looping.</p></li>
+	<li><p><a href="https://github.com/jefriwahyu/tugas_10_php"><b><i>10</i></b></a> - Mengurutkan Bilangan Array Acak Dengan Sort dan For.</p></li>
 	<li><p><a href="https://github.com/jefriwahyu/tugas_11_php"><b><i>11</i></b></a> - CRUD API.</p></li>
 	<li><p><a href="https://github.com/jefriwahyu/study_kasus_php"><b><i>Study Kasus</i></b></a> - CRUD API.</p></li>
 	<li><p><a href="https://github.com/jefriwahyu/tugas_akhir_php"><b><i>Tugas Akhir</i></b></a> - CRUD API.</p></li>
