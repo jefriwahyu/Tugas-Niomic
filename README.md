@@ -171,7 +171,7 @@
 	<li><p><a href="https://github.com/jefriwahyu/tugas_1_php"><b><i>1</i></b></a> - Data JSON.</p></li>
 	<li><p><a href="https://github.com/jefriwahyu/tugas_2_php"><b><i>2</i></b></a> - API, POST dan GET.</p></li>
 	<li><p><a href="https://github.com/jefriwahyu/tugas_3_php"><b><i>3</i></b></a> - GET dan PUT.</p></li>
-	<li><p><a href="https://github.com/jefriwahyu/tugas_4_phps"><b><i>4</i></b></a> - GET dan PUT.</p></li>
+	<li><p><a href="https://github.com/jefriwahyu/tugas_4_php"><b><i>4</i></b></a> - GET dan PUT.</p></li>
 	<li><p><a href="https://github.com/jefriwahyu/tugas_5_php"><b><i>5</i></b></a> - GET dan PUT.</p></li>
 	<li><p><a href="https://github.com/jefriwahyu/tugas_6_php"><b><i>6</i></b></a> - GET dan PUT.</p></li>
 	<li><p><a href="https://github.com/jefriwahyu/tugas_7_php"><b><i>7</i></b></a> - GET dan PUT.</p></li>
