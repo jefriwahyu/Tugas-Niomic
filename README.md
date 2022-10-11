@@ -178,7 +178,7 @@
 	<li><p><a href="https://github.com/jefriwahyu/tugas_8_php"><b><i>8</i></b></a> - GET dan PUT.</p></li>
 	<li><p><a href="https://github.com/jefriwahyu/tugas_9_php"><b><i>9</i></b></a> - GET dan PUT.</p></li>
 	<li><p><a href="https://github.com/jefriwahyu/tugas_10_php"><b><i>10</i></b></a> - GET dan PUT.</p></li>
-	<li><p><a href="https://github.com/jefriwahyu/tugas_11_php"><b><i>11</i></b></a> - GET dan PUT.</p></li>
-	<li><p><a href="https://github.com/jefriwahyu/study_kasus_php"><b><i>Study Kasus</i></b></a> - REST API CRUD.</p></li>
-	<li><p><a href="https://github.com/jefriwahyu/tugas_akhir_php"><b><i>Tugas Akhir</i></b></a> - CRUD (Create, Read, Update, Delete).</p></li>
+	<li><p><a href="https://github.com/jefriwahyu/tugas_11_php"><b><i>11</i></b></a> - CRUD API.</p></li>
+	<li><p><a href="https://github.com/jefriwahyu/study_kasus_php"><b><i>Study Kasus</i></b></a> - CRUD API.</p></li>
+	<li><p><a href="https://github.com/jefriwahyu/tugas_akhir_php"><b><i>Tugas Akhir</i></b></a> - CRUD API.</p></li>
 </ul>
