@@ -165,3 +165,20 @@
 	<li><p><a href="https://github.com/jefriwahyu/study_kasus_nodejs"><b><i>Study Kasus</i></b></a> - REST API CRUD.</p></li>
 	<li><p><a href="https://github.com/jefriwahyu/tugas_akhir_nodejs"><b><i>Tugas Akhir</i></b></a> - CRUD (Create, Read, Update, Delete).</p></li>
 </ul>
+
+<h2>Tugas PHP ✔</h2>
+<ul>
+	<li><p><a href="https://github.com/jefriwahyu/tugas_1_php"><b><i>1</i></b></a> - Data JSON.</p></li>
+	<li><p><a href="https://github.com/jefriwahyu/tugas_2_php"><b><i>2</i></b></a> - API, POST dan GET.</p></li>
+	<li><p><a href="https://github.com/jefriwahyu/tugas_3_php"><b><i>3</i></b></a> - GET dan PUT.</p></li>
+	<li><p><a href="https://github.com/jefriwahyu/tugas_4_phps"><b><i>3</i></b></a> - GET dan PUT.</p></li>
+	<li><p><a href="https://github.com/jefriwahyu/tugas_5_php"><b><i>3</i></b></a> - GET dan PUT.</p></li>
+	<li><p><a href="https://github.com/jefriwahyu/tugas_6_php"><b><i>3</i></b></a> - GET dan PUT.</p></li>
+	<li><p><a href="https://github.com/jefriwahyu/tugas_7_php"><b><i>3</i></b></a> - GET dan PUT.</p></li>
+	<li><p><a href="https://github.com/jefriwahyu/tugas_8_php"><b><i>3</i></b></a> - GET dan PUT.</p></li>
+	<li><p><a href="https://github.com/jefriwahyu/tugas_9_php"><b><i>3</i></b></a> - GET dan PUT.</p></li>
+	<li><p><a href="https://github.com/jefriwahyu/tugas_10_php"><b><i>3</i></b></a> - GET dan PUT.</p></li>
+	<li><p><a href="https://github.com/jefriwahyu/tugas_11_php"><b><i>3</i></b></a> - GET dan PUT.</p></li>
+	<li><p><a href="https://github.com/jefriwahyu/study_kasus_php"><b><i>Study Kasus</i></b></a> - REST API CRUD.</p></li>
+	<li><p><a href="https://github.com/jefriwahyu/tugas_akhir_php"><b><i>Tugas Akhir</i></b></a> - CRUD (Create, Read, Update, Delete).</p></li>
+</ul>
